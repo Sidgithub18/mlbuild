@@ -21,7 +21,7 @@ MLBuild is the missing performance layer for ML CI/CD. While MLflow, DVC, and W&
 
 | Feature | Status |
 |---------|--------|
-| Input formats | ONNX, TFLite |
+| Input formats | ONNX |
 | Backends | CoreML, TFLite, ONNX Runtime |
 | Storage | Local + S3-compatible (AWS S3, R2, B2) |
 | Targets | Apple Silicon, A-series, Android (arm64) |
