@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="assets/mlbuild_logo.png" alt="MLBuild Logo" width="120" /><br/><br/>
+
 **Performance CI/CD for Production ML Models**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
